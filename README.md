@@ -18,6 +18,7 @@ https://youtu.be/XCYiG_0MUcU
 
 ##BLOCK DIAGRAM
 
+![project pic](https://user-images.githubusercontent.com/72666009/96374388-162ddf80-1190-11eb-981a-2f75ed09d064.jpg)
 
   
   
